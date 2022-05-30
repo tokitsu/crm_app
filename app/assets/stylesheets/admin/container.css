@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* 行の高さ */
+div#wrapper div#container h1 {
+  margin: 0;
+  padding: 9px 6px;
+  font-size: 16px;
+  font-weight: normal;
+  background-color: purple;
+  color: #eeeeee;
+}
+/*# sourceMappingURL=container.css.map */

@@ -1,0 +1,13 @@
+div#error {
+  width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 4px #666666;
+  background-color: #fafafa;
+  text-align: center;
+}
+div#error p.url {
+  font-family: monospace;
+}
+/*# sourceMappingURL=errors.css.map */
