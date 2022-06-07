@@ -23,6 +23,10 @@ header {
 header span.logo-mark {
   font-weight: bold;
 }
+header a {
+  float: right;
+  color: #fafafa;
+}
 
 footer {
   bottom: 0;
